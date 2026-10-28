@@ -6,7 +6,7 @@
 
 ```
 jeju/
-├─ jeju.html              소개 웹페이지 (카드, 카테고리 버튼, 이름 검색, 가 보고 싶은 곳)
+├─ index.html              소개 웹페이지 (카드, 카테고리 버튼, 이름 검색, 가 보고 싶은 곳)
 ├─ jeju_spots.json        완성된 데이터 (100곳)
 ├─ README.md              이 문서
 ├─ 데이터제작/
@@ -52,7 +52,7 @@ jeju/
 
 ## 실행 방법
 
-`jeju.html`은 `jeju_spots.json`을 `fetch`로 읽기 때문에 파일을 더블클릭해서 열면 동작하지 않습니다. 이 폴더를 웹 서버로 열어야 합니다. (예: VS Code의 Live Server, 또는 Vercel 같은 배포 서비스)
+`index.html`은 `jeju_spots.json`을 `fetch`로 읽기 때문에 파일을 더블클릭해서 열면 동작하지 않습니다. 이 폴더를 웹 서버로 열어야 합니다. (예: VS Code의 Live Server, 또는 Vercel 같은 배포 서비스)
 
 ## 알아둘 점
 
